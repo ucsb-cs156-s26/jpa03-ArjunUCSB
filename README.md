@@ -1,7 +1,7 @@
 # STARTER-jpa03
 
 
-Running at: <https://ucsb-cs156-s26.github.io/jpa03-ArjunUCSB/>
+Running at: <https://jpa03-arjunucsb.dokku-12.cs.ucsb.edu>
 
 
 
